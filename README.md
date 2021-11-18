@@ -1,5 +1,7 @@
 ## Hi, I'm Matt 👋
 
+Check out my README to see what I'm all about! Go to the "Find me" section to reach out, I'd love to connect.
+
 ### Who I am
 ```javascript
 const i = {
@@ -9,7 +11,7 @@ const i = {
 };
 ```
 
-### What I know
+### What I use
 <table>
   <tbody>
     <tr>
@@ -81,9 +83,9 @@ const i = {
 
 #### Find me
 <div>
-  <img alt="matthewsaxe.com" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
-  <img alt="GMail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://matthewsaxe.com"><img alt="matthewsaxe.com" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+  <a href="mailto:mattsaxe17@gmail.com"><img alt="GMail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://twitter.com/mattsaxe17"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/mattsaxe17"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </div>
 
