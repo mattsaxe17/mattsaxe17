@@ -86,8 +86,8 @@ const i = {
 
 ## My stats
 <div>
-  <img height="175" src="https://github-readme-streak-stats.herokuapp.com/?user=mattsaxe17" />
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=mattsaxe17" />
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=mattsaxe17&theme=dark&show_icons=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=mattsaxe17&theme=dark&show_icons=true" />
 </div>
 
 
