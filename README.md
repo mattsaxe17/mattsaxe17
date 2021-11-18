@@ -1,6 +1,6 @@
 ## Hi, I'm Matt 👋
 
-Check out my README to see what I'm all about! Go to the "Find me" section to reach out, I'd love to connect.
+Check out my README to see what I'm all about! Reach out to me any of the ways above, I'd love to connect.
 
 ### Who I am
 ```javascript
@@ -62,9 +62,9 @@ const i = {
       <td>Testing & Deployment</td>
       <td>
         <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
-        <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+        <img alt="AWS" src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
         <img alt="Jest" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
-        <img alt="Mocha/Chai" src="https://img.shields.io/badge/chai-A30701?style=for-the-badge&logo=chai&logoColor=white" />
+        <img alt="Mocha/Chai" src="https://img.shields.io/badge/mocha/chai-A30701?style=for-the-badge&logo=chai&logoColor=white" />
         <img alt="Digital Ocean" src="https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white" />
         <img alt="Azure DevOps" src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" />
         <img alt="CircleCI" src="https://img.shields.io/badge/circleci-343434?style=for-the-badge&logo=circleci&logoColor=white" />
@@ -80,12 +80,11 @@ const i = {
   </tbody>
 </table>
 
-
-#### Find me
+### Where to find me
 <div>
-  <a href="https://matthewsaxe.com"><img alt="matthewsaxe.com" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
-  <a href="mailto:mattsaxe17@gmail.com"><img alt="GMail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://twitter.com/mattsaxe17"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/mattsaxe17"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://matthewsaxe.com"><img alt="matthewsaxe.com" src="https://img.shields.io/badge/matthewsaxe.com-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+  <a href="mailto:mattsaxe17@gmail.com"><img alt="GMail" src="https://img.shields.io/badge/mattsaxe17@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://twitter.com/mattsaxe17"><img alt="Twitter" src="https://img.shields.io/badge/mattsaxe17-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/mattsaxe17"><img alt="LinkedIn" src="https://img.shields.io/badge/mattsaxe17-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </div>
 
