@@ -5,7 +5,7 @@ Check out my README to see what I'm all about! Go to the "Find me" section to re
 ### Who I am
 ```javascript
 const i = {
-  am: ['software engineer', 'athlete', 'lawn care aficionado', 'Drake fan', 19],
+  am: ['software engineer', 'athlete', 'lawn care aficionado', 'coffee enthusiast', 'Drake fan', 19],
   loveTo: ['write code', 'workout', 'read', 'travel', 'invest in crypto', 'cook healthy food'],
   aspire: "to build a life doing what I love, so work doesn't feel like work"
 };
