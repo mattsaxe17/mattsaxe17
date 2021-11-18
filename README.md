@@ -1,6 +1,6 @@
 ## Hi, I'm Matt 👋
 
-Check out my README to see what I'm all about! Reach out to me any of the ways above, I'd love to connect.
+Check out my README to see what I'm all about! Please reach out and say hi, I'd love to connect!
 
 ### Who I am
 ```javascript
