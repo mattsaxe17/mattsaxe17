@@ -3,7 +3,7 @@
   <a href="https://matthewsaxe.com"><img height="25" alt="matthewsaxe.com" src="https://img.shields.io/badge/matthewsaxe.com-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
   <a href="mailto:mattsaxe17@gmail.com"><img height="25" alt="GMail" src="https://img.shields.io/badge/mattsaxe17@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/mattsaxe17"><img height="25" alt="LinkedIn" src="https://img.shields.io/badge/mattsaxe17-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <!-- <a href="https://twitter.com/mattsaxe17"><img height="25" alt="Twitter" src="https://img.shields.io/badge/mattsaxe17-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a> -->
+  <a href="https://twitter.com/mattsaxe17"><img height="25" alt="Twitter" src="https://img.shields.io/badge/mattsaxe17-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </div>
 
 Check out my README to see what I'm all about! Please reach out and say hi, I'd love to connect!
