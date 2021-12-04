@@ -91,7 +91,11 @@ const i = {
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=mattsaxe17&theme=dark&show_icons=true" />
 </div>
 
+<sub>
 <br />
 <i>Like my README? Feel free to take anything you like and use it for yourself! (copy and paste too) (:</i>
+<br />
+<i>Tech badges <a href="https://github.com/alexandresanlim/Badges4-README.md-Profile">here</a></i>
+</sub>
 
 
