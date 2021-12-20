@@ -1,6 +1,6 @@
 # Hi, I'm Matt 👋
 <div>
-  <!-- <a href="https://matthewsaxe.com"><img height="25" alt="matthewsaxe.com" src="https://img.shields.io/badge/matthewsaxe.com-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a> -->
+  <a href="https://matthewsaxe.com"><img height="25" alt="matthewsaxe.com" src="https://img.shields.io/badge/matthewsaxe.com-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
   <a href="mailto:mattsaxe17@gmail.com"><img height="25" alt="GMail" src="https://img.shields.io/badge/mattsaxe17@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/mattsaxe17"><img height="25" alt="LinkedIn" src="https://img.shields.io/badge/mattsaxe17-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://twitter.com/mattsaxe17"><img height="25" alt="Twitter" src="https://img.shields.io/badge/mattsaxe17-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
@@ -18,7 +18,7 @@ const i = {
 };
 ```
 
-## What I'm working on
+## What I've been working on
 - <a href="https://matthewsaxe.com">matthewsaxe.com</a> - My personal site
 - <a href="https://github.com/mattsaxe17/breezyjs">breezyjs</a> - A javascript utility library making everyday tasks a breeze
 - <a href="https://github.com/mattsaxe17/barnyardjs">barnyardjs</a> - An open-source, (incredibly) customizable rich text editor for the open web
