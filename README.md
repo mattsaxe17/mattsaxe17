@@ -12,7 +12,7 @@ Check out my README to see what I'm all about! Please reach out and say hi, I'd 
 ```javascript
 const i = {
   am: ['software engineer', 'athlete', 'lawn care aficionado', 'coffee enthusiast', 'Drake fan', 19],
-  loveTo: ['write code', 'workout', 'read', 'travel', 'invest in crypto', 'cook healthy food'],
+  loveTo: ['write code', 'workout', 'read', 'travel', 'buy crypto & NFTs', 'cook healthy food'],
   recently: ['bought some NFTs', 'drank some coffee'],
   aspire: "to build a life doing what I love, so work doesn't feel like work"
 };
