@@ -8,6 +8,8 @@
 
 Check out my README to see what I'm all about! Please reach out and say hi, I'd love to connect!
 
+
+
 ## Who I am
 ```javascript
 const i = {
@@ -18,11 +20,31 @@ const i = {
 };
 ```
 
+
+
 ## What I've been working on
 - <a href="https://matthewsaxe.com">matthewsaxe.com</a> - My personal site
 - <a href="https://idealstrengthcalculator.com/">Ideal Strength Calculator</a> - An easy way to discover your strength
 - <a href="https://github.com/mattsaxe17/breezyjs">breezyjs</a> - A javascript utility library making everyday tasks a breeze
 - <a href="https://github.com/mattsaxe17/barnyardjs">barnyardjs</a> - An open-source, (incredibly) customizable rich text editor for the open web
+
+
+
+## What I'm learning (or plan to soon)
+- Smart contracts
+- Solidity
+- Web3 JS
+- GraphQL
+- Chainlink data feeds
+- Spanish!
+<div>
+  <img height="25" alt="Smart Contracts" src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" />
+  <img height="25" alt="Solidity" src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black" />
+  <img height="25" alt="Web3 Js" src="https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" />
+  <img height="25" alt="GraphQL" src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+  <img height="25" alt="Chainlink" src="https://img.shields.io/badge/chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white" />
+</div>
+
 
 
 ## What I use
@@ -40,6 +62,7 @@ const i = {
   <img height="25" alt="JQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
   <img height="25" alt="Json" src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
   <img height="25" alt="Nuxt" src="https://img.shields.io/badge/nuxt.js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white" />
+  <img height="25" alt="Vuetify" src="https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white" />
 </div>
 
 #### Backend
@@ -49,10 +72,11 @@ const i = {
   <img height="25" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img height="25" alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
   <img height="25" alt="Postgres" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img height="25" alt="PSQL" src="https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=black" />
   <img height="25" alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
   <img height="25" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B" />
   <img height="25" alt="SQL Server" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
-  <img height="25" alt="" src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" />
+  <img height="25" alt="JWT" src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" />
 </div>
 
 #### Dev Tools
@@ -65,6 +89,8 @@ const i = {
   <img height="25" alt="Babel" src="https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=white" />
   <img height="25" alt="EsLint" src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" />
   <img height="25" alt="Prettier" src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E" />
+  <img height="25" alt="Vim" src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white" />
+  <img height="25" alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
 </div>
 
 #### Testing/Deployment
@@ -81,15 +107,26 @@ const i = {
 
 #### Random
 <div>
+  <img height="25" alt="Wix" src="https://img.shields.io/badge/Wix-000?style=for-the-badge&logo=wix&logoColor=white" />
   <img height="25" alt="Google sheets" src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" />
   <img height="25" alt="Framer" src="https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue" />
+  <img height="25" alt="Inkscape" src="https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white" />
 </div>
+
+#### Web3
+<div>
+  Soon... (;
+</div>
+
+
 
 ## My stats
 <div>
   <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=mattsaxe17&theme=dark&show_icons=true" />
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=mattsaxe17&theme=dark&show_icons=true" />
 </div>
+
+
 
 <sub>
 <br />
