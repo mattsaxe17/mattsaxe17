@@ -13,9 +13,9 @@ Check out my README to see what I'm all about! Please reach out and say hi, I'd 
 ## Who I am
 ```javascript
 const i = {
-  am: ['software engineer', 'athlete', 'lawn care aficionado', 'coffee enthusiast', 'Drake fan', 19],
+  am: ['software engineer', 'athlete', 'lawn care aficionado', 'coffee enthusiast', 'Drake fan', 20],
   loveTo: ['write code', 'workout', 'read', 'travel', 'buy crypto & NFTs', 'cook healthy food'],
-  recently: ['bought some NFTs', 'drank some coffee'],
+  recently: ['bought some crypto', 'drank some coffee'],
   aspire: "to build a life doing what I love, so work doesn't feel like work"
 };
 ```
@@ -23,7 +23,7 @@ const i = {
 
 
 ## What I've been working on
-- <a href="https://matthewsaxe.com">matthewsaxe.com</a> - My personal site
+- <a href="https://nft.matthewsaxe.com">matthewsaxe.com</a> - My personal NFT marketplace portfolio project
 - <a href="https://idealstrengthcalculator.com/">Ideal Strength Calculator</a> - An easy way to discover your strength
 - <a href="https://github.com/mattsaxe17/breezyjs">breezyjs</a> - A javascript utility library making everyday tasks a breeze
 - <a href="https://github.com/mattsaxe17/barnyardjs">barnyardjs</a> - An open-source, (incredibly) customizable rich text editor for the open web
