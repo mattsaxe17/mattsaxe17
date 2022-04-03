@@ -23,10 +23,10 @@ const i = {
 
 
 ## What I've been working on
-- <a href="https://nft.matthewsaxe.com">matthewsaxe.com</a> - My personal NFT marketplace portfolio project
-- <a href="https://idealstrengthcalculator.com/">Ideal Strength Calculator</a> - An easy way to discover your strength
+- <a href="https://matthewsaxe.com">matthewsaxe.com</a> - My personal site
+- <a href="https://nft.matthewsaxe.com">nft.matthewsaxe.com</a> - My personal NFT project
+- <a href="https://idealstrengthcalculator.com/">Ideal Strength Calculator</a> - An easy way to discover your relative strength
 - <a href="https://github.com/mattsaxe17/breezyjs">breezyjs</a> - A javascript utility library making everyday tasks a breeze
-- <a href="https://github.com/mattsaxe17/barnyardjs">barnyardjs</a> - An open-source, (incredibly) customizable rich text editor for the open web
 
 
 
