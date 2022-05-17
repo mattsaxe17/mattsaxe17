@@ -13,8 +13,8 @@ Check out my README to see what I'm all about! Please reach out and say hi, I'd 
 ## Who I am
 ```javascript
 const i = {
-  am: ['software engineer', 'athlete', 'lawn care aficionado', 'coffee enthusiast', 'Drake fan', 20],
-  loveTo: ['write code', 'workout', 'read', 'travel', 'buy crypto & NFTs', 'cook healthy food'],
+  am: ['software engineer', 'athlete', 'foodie', 'lawn care aficionado', 'coffee enthusiast', 'Drake fan', 20],
+  loveTo: ['write code', 'workout', 'read', 'travel', 'invest', 'cook healthy food'],
   recently: ['bought some crypto', 'drank some coffee', 'learned about calisthenics'],
   aspire: "to build a life doing what I love, so work doesn't feel like work"
 };
@@ -24,6 +24,7 @@ const i = {
 
 ## What I've been working on
 - <a href="https://matthewsaxe.com">matthewsaxe.com</a> - My personal site
+- <a href="https://matthewsaxe.com/blog">matthewsaxe.com/blog</a> - My personal blog where I hope to write about crypto and software development
 - <a href="https://nft.matthewsaxe.com">nft.matthewsaxe.com</a> - My personal NFT marketplace project
 - <a href="https://idealstrengthcalculator.com/">Ideal Strength Calculator</a> - An easy way to discover your relative strength
 - <a href="https://github.com/mattsaxe17/breezyjs">breezyjs</a> - A javascript utility library making everyday tasks a breeze
