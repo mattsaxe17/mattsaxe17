@@ -1,7 +1,3 @@
-<p align="center">
-  <img width="100" src="https://matthewsaxe.com/logo.svg">
-</p>
-
 # Hi, I'm Matt 👋
 <div>
   <a href="https://matthewsaxe.com"><img height="25" alt="matthewsaxe.com" src="https://img.shields.io/badge/matthewsaxe.com-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
