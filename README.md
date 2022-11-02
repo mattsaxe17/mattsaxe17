@@ -15,7 +15,7 @@ Check out my README to see what I'm all about! Please reach out and say hi, I'd 
 const i = {
   am: ['software engineer', 'athlete', 'foodie', 'lawn care aficionado', 'coffee enthusiast', 'Drake fan', 20],
   loveTo: ['write code', 'train martial arts', 'workout', 'read', 'travel', 'invest', 'cook healthy food'],
-  recently: ['bought some crypto', 'learned about calisthenics', 'started jiu jitsu'],
+  recently: ['learned Next.js', 'read Meditations by Marcus Aurelius'],
   believe: "Our contribution to this world is the sum of the impact we leave on others"
 };
 ```
