@@ -124,8 +124,6 @@ const i = {
 ## My stats
 <div>
   <img alt="Stats" src="https://github-profile-trophy.vercel.app/?username=mattsaxe17" />
-  <br />
-  <img alt="Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattsaxe17" />
 </div>
 
 
