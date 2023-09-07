@@ -11,9 +11,9 @@ Check out my README to see what I'm all about! Please reach out and say hi, I'd 
 ## Who I am
 ```javascript
 const i = {
-  am: ['software engineer', 'hybrid athlete', 'lawn care aficionado', 'investor', 'coffee enthusiast', 20],
+  am: ['software engineer', 'hybrid athlete', 'lawn care aficionado', 'investor', 'carnivore', 21],
   loveTo: ['write code', 'train martial arts', 'workout', 'read', 'travel', 'invest', 'cook healthy food'],
-  recently: ['learned Next.js', 'read Meditations by Marcus Aurelius', 'started training for a Spartan Ultra'],
+  recently: ['moved to Dallas, TX', 'learned Kubernetes & Terraform', 'Started a podcast'],
   believe: "Our contribution to this world is the sum of the impact we leave on others"
 };
 ```
