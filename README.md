@@ -13,7 +13,7 @@ Check out my README to see what I'm all about! Please reach out and say hi, I'd 
 const i = {
     am: ["software engineer", "hybrid athlete", "lawn care aficionado", "investor", "animal-based", 21],
     loveTo: ["write code", "train martial arts", "workout", "read", "travel", "invest", "cook healthy food"],
-    recently: ["moved to Dallas, TX", "learned Kubernetes & Terraform", "started a podcast", "became a home owner"],
+    recently: ["moved to Dallas, TX", "learned Kubernetes", "became a home owner"],
     believe: "Our contribution to this world is the sum of the impact we leave on others",
 };
 ```
