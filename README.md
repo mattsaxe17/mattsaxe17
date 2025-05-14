@@ -2,7 +2,7 @@
 
 <div>
   <a href="https://matthewsaxe.com"><img alt="matthewsaxe.com" src="https://img.shields.io/badge/matthewsaxe.com-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
-  <a href="mailto:matt@matthewsaxe.com"><img alt="GMail" src="https://img.shields.io/badge/matt@matthewsaxe.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:mattsaxe17@gmail.com"><img alt="GMail" src="https://img.shields.io/badge/mattsaxe17@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/mattsaxe17"><img alt="LinkedIn" src="https://img.shields.io/badge/mattsaxe17-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 Check out my README to see what I'm all about! Please reach out and say hi, I'd love to connect!
