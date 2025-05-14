@@ -1,4 +1,4 @@
-# Hi, I'm Matt 👋
+# Howdy, I'm Matt 👋
 
 <div>
   <a href="https://matthewsaxe.com"><img alt="matthewsaxe.com" src="https://img.shields.io/badge/matthewsaxe.com-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
@@ -11,25 +11,24 @@ Check out my README to see what I'm all about! Please reach out and say hi, I'd 
 
 ```javascript
 const i = {
-    am: ["software engineer", "hybrid athlete", "lawn care aficionado", "animal-based", 22],
-    loveTo: ["write code", "train martial arts", "workout", "read", "travel", "invest", "cook"],
-    recently: ["moved to Dallas, TX", "learned Kubernetes", "became a homeowner"],
+    am: ["software engineer", "martial artist", "ribeye enthusiast"],
+    loveTo: ["write code", "train jiu jitsu and muay thai", "workout", "read", "travel", "cook"],
+    recently: ["took a deep-dive into time-series databases like Timescale"],
     believe: "Our contribution to this world is the sum of the impact we leave on others",
 };
 ```
 
-## What I've been working on
+## Some cool stuff I've made
 
 -   <a href="https://matthewsaxe.com">matthewsaxe.com</a> - My personal site - just dropped v3
 -   <a href="https://thegogetters.co">thegogetters.co</a> - A homepage for some dope podcasters
 -   <a href="https://idealstrengthcalculator.com/">Ideal Strength Calculator</a> - An easy way to discover your relative strength
 
-## What I'm learning (or plan to soon)
+## What I've been diving into
 
--   GraphQL
--   Advanced design patterns
--   Software Architecture
--   Spanish!
+-   Time-series databases
+-   Cloud architecture
+-   Event-driven architecture, messaging, and queues
 
 ## What I know & use
 
